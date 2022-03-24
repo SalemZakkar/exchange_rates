@@ -1,0 +1,26 @@
+{
+    "en" : {
+        "homeTitle" : "Exchange Rates",
+        "buy" : "buy",
+        "sell" : "sell",
+        "menuTitle" : "Menu",
+        "setting1" : "Activate Notification",
+        "setting2" : "language",
+        "dialog" : "Please Restart \n For Effects",
+        "dialogButton" : "OK",
+        "internet" : "no Network",
+        "price" : "S.P"
+    },
+    "ar" : {
+        "homeTitle" : "أسعار الصرف",
+        "buy" : "مبيع",
+        "sell" : "شراء",
+        "menuTitle" : "الخيارات",
+        "setting1" : "تفعيل الإشعارات",
+        "setting2" : "اللغة",
+        "dialog" : "رجاء أعد تشغيل التطبيق \n لتغيير اللغة",
+        "dialogButton" : "موافق",
+        "internet" : "لا يوجد اتصال بالإنترنت",
+        "price" : "ل.س"
+    }
+}
